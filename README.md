@@ -18,4 +18,4 @@ Link to video: https://youtu.be/_9QqvQuexr8
 
 
 
-Approximation in fritzing.
+Approximation in fritzing. 
