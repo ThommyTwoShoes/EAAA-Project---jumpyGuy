@@ -18,4 +18,4 @@ Link to video: https://youtu.be/_9QqvQuexr8
 
 
 
-This is the closest I could get to the setup in fritzing. If nothing else, it's more approachable without any hand soldered parts.
+Approximation in fritzing.
