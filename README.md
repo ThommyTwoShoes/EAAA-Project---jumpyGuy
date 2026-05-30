@@ -8,13 +8,14 @@ Light_WS2812 AVR library by cpldcpu is used to control the LEDs.
 
 Link to library: https://github.com/cpldcpu/light_ws2812
 
-Link to video: https://youtu.be/_9QqvQuexr8
-
 
 [![GIF](https://i.imgur.com/rZstE7J.gif) Youtube video](https://www.youtube.com/watch?v=_9QqvQuexr8)
 
+Link to video: https://youtu.be/_9QqvQuexr8
 
-
+<img src="https://github.com/ThommyTwoShoes/EAAA-Project---jumpyGuy/blob/main/schematicJumpyGuy.png" alt="wiring diagram" width="50%" height="50%">
 <img src="https://i.imgur.com/eLuGCKw.png" alt="wiring diagram" width="50%" height="50%">
+
+
 
 This is the closest I could get to the setup in fritzing. If nothing else, it's more approachable without any hand soldered parts.
